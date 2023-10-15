@@ -1226,8 +1226,8 @@ label {
     padding: 0px 0;
     position: relative;
     z-index: 1;
-    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(/assets/img/images/bxbg.jpg) center center no-repeat;
-    background-size: cover;
+    background-image: url(./../img/images/bg.jpg.png);
+       background-size: cover;
     justify-content: space-between;
 }
 
